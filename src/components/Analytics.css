@@ -1,0 +1,30 @@
+.sider {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .side1,
+  .side2,
+  .side3 {
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 5px 10px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  @media (max-width: 800px) {
+    .sider {
+      flex-direction: column;
+      justify-content: center;
+    }
+    
+  }

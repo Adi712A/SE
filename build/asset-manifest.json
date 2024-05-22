@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c555081c.css",
+    "main.js": "/static/js/main.2f92ff96.js",
+    "static/js/787.535139d0.chunk.js": "/static/js/787.535139d0.chunk.js",
+    "static/media/budgetappicon.png": "/static/media/budgetappicon.576bb82b93fdfa51ec6b.png",
+    "index.html": "/index.html",
+    "main.c555081c.css.map": "/static/css/main.c555081c.css.map",
+    "main.2f92ff96.js.map": "/static/js/main.2f92ff96.js.map",
+    "787.535139d0.chunk.js.map": "/static/js/787.535139d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c555081c.css",
+    "static/js/main.2f92ff96.js"
+  ]
+}
